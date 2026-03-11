@@ -2,37 +2,60 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kallol Chakrabarti | Docu Helix Sovereign Portal</title>
     <style>
-        body { margin: 0; font-family: sans-serif; display: flex; height: 100vh; background: #121212; color: white; }
-        .sidebar { width: 320px; background: #1a1a1a; padding: 20px; border-right: 2px solid #00ffcc; overflow-y: auto; }
-        .main { flex-grow: 1; display: flex; flex-direction: column; }
-        iframe { width: 100%; height: 100%; border: none; }
-        .btn { display: block; background: #00ffcc; color: black; padding: 10px; text-align: center; text-decoration: none; font-weight: bold; margin-top: 10px; border-radius: 5px; }
-        h2 { color: #00ffcc; font-size: 1.2rem; }
-        .date { font-size: 0.8rem; color: #888; margin-bottom: 5px; }
+        :root { --accent: #00ffcc; --bg: #121212; --card: #1a1a1a; --text: #e0e0e0; }
+        body { margin: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; display: flex; height: 100vh; background: var(--bg); color: var(--text); }
+        
+        .sidebar { width: 320px; background: var(--card); padding: 25px; border-right: 2px solid var(--accent); overflow-y: auto; box-sizing: border-box; }
+        .main { flex-grow: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 40px; text-align: center; background: radial-gradient(circle at center, #1e1e1e 0%, #121212 100%); }
+        
+        .launch-card { background: var(--card); padding: 40px; border-radius: 15px; border: 1px solid #333; box-shadow: 0 10px 30px rgba(0,0,0,0.5); max-width: 600px; }
+        .btn { display: inline-block; background: var(--accent); color: black; padding: 15px 30px; text-url: none; font-weight: bold; margin-top: 20px; border-radius: 8px; text-decoration: none; transition: transform 0.2s; box-shadow: 0 4px 15px rgba(0, 255, 204, 0.3); }
+        .btn:hover { transform: scale(1.05); background: #00e6b8; }
+        
+        h2 { color: var(--accent); margin-top: 0; }
+        .date { font-size: 0.85rem; color: #888; margin-bottom: 8px; border-left: 2px solid #444; padding-left: 10px; }
+        hr { border: 0; border-top: 1px solid #333; margin: 20px 0; }
+        .video-btn { color: var(--accent); text-decoration: none; font-size: 0.9rem; border: 1px solid var(--accent); padding: 5px 10px; border-radius: 4px; display: inline-block; margin-top: 10px; }
     </style>
 </head>
 <body>
     <div class="sidebar">
         <h2>Docu Helix</h2>
-        <p><strong>Kallol Chakrabarti</strong><br>Independent Researcher</p>
+        <p><strong>Kallol Chakrabarti</strong><br>Independent Researcher<br>Lucknow, India</p>
         <hr>
-        <h3>National IP Award Journey</h3>
-        <div class="date">26 Oct 2025: Application Submitted</div>
-        <div class="date">08 Dec 2025: Evidence Verified</div>
-        <div class="date">02 Mar 2026: State Invitation Received</div>
-        <div class="date">09 Mar 2026: Bharat Mandapam Ceremony</div>
+        <h3>National IP Awards Timeline</h3>
+        <div class="date">Oct 26, 2025: Application & Evidence</div>
+        <div class="date">Dec 08, 2025: Shortlisted / Verified</div>
+        <div class="date">Mar 02, 2026: State Invitation</div>
+        <div class="date">Mar 09, 2026: Bharat Mandapam Ceremony</div>
         
-        <a href="https://world-top-independent-researcher.netlify.app/" target="_blank" class="btn">WATCH: The 1:31 Intervention</a>
-        
-        <div style="margin-top:20px;">
-            <h3>Research Links</h3>
-            <a href="https://zenodo.org/communities/docu-helix" style="color:#00ffcc;">256+ Zenodo DOIs</a>
-        </div>
+        <a href="https://world-top-independent-researcher.netlify.app/" target="_blank" class="video-btn">▶ Watch: 1:31 Intervention</a>
+        <hr>
+        <p style="font-size: 0.8rem; line-height: 1.4; color: #999;">
+            <strong>Credentials:</strong><br>
+            • HarvardX Rhetoric Certified<br>
+            • ORCID: 0009-0007-4971-8936<br>
+            • 256+ Zenodo DOIs
+        </p>
     </div>
+
     <div class="main">
-        <iframe src="https://opal.google/app/1pc-N7FqXNtAE1AG90mJZH1SbyFsEsi1W"></iframe>
+        <div class="launch-card">
+            <h1 style="color: var(--accent); margin-bottom: 10px;">Sovereign Intelligence Engine</h1>
+            <p style="font-size: 1.1rem; line-height: 1.6;">
+                A Docu Helix initiative providing source-referenced policy clarity and governance frameworks.
+            </p>
+            <p style="color: #888; font-size: 0.9rem;">
+                The engine utilizes Sovereign Logic to process national schemes and academic data.
+            </p>
+            <a href="https://opal.google/app/1pc-N7FqXNtAE1AG90mJZH1SbyFsEsi1W" target="_blank" class="btn">LAUNCH AI AGENT 🚀</a>
+            <p style="margin-top: 20px; font-size: 0.75rem; color: #555;">
+                *Opens in a new secure window to ensure full functionality.
+            </p>
+        </div>
     </div>
 </body>
 </html>
