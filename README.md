@@ -8,7 +8,7 @@
 ## 🏛️ National Recognition & Official Timeline
 This repository documents the transition of theoretical frameworking into national policy discourse.
 
-* **26th Oct 2025:** Formally applied for the **National Intellectual Property (IP) Awards**. Submitted empirical evidence, including screenshots of functional governance frameworks and digital assets, establishing "World-First" status.
+* **26th Oct 2025:** Formally applied for the **National Intellectual Property (IP) Awards**. Submitted empirical evidence, including screenshots of functional governance frameworks and digital assets.
 * **8th Dec 2025:** Formally **Shortlisted** by the CGPDTM (Indian Patent Office). Technical merit verified via functional evidence; entered final verification phase for revenue/commercial impact.
 * **2nd Mar 2026:** Received official **State Invitation** to the National IP Award distribution ceremony.
 * **9th Mar 2026:** Attended ceremony at **Bharat Mandapam**, New Delhi. Represented the independent research community as the **sole unaffiliated invitee**.
@@ -29,18 +29,16 @@ Integrated within this portal is an AI-driven agent configured via the **Policy 
 
 ## 🧠 Intellectual Property & Frameworks
 * **IP Protection:** Originator of the **Helix-Nano Catalyst Framework** (Provisional Patent No. 202411090481).
-* **Key Frameworks:** * *Aspirational Governance:* Dual-track model for elite accountability and mass welfare.
-    * *Civic Reflexivity Engines:* AI tools for democratic self-examination.
-    * *Employment Rights Manual:* A Ready Reckoner for private school educators in India.
+* **Published Literature:** [Silent Wars: Geopolitical Strategies (Amazon)](https://www.amazon.in/Silent-Wars-Geopolitical-Strategies-Understanding/dp/B0FBBJJC8D)
+* **Key Frameworks:** *Aspirational Governance*, *Civic Reflexivity Engines*, and the *Employment Rights Manual for Private School Educators*.
 
 ---
 
 ## 📊 Global Research Footprint & Verification
 * **ORCID iD:** [0009-0007-4971-8936](https://orcid.org/0009-0007-4971-8936)
 * **Featured SSRN Research:** [Abstract 5286196](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5286196)
-* **DOIs:** 256+ peer-reviewed and DeSci verified submissions via Zenodo.
+* **Latest Zenodo Record:** [10.5281/zenodo.18663212](https://zenodo.org/records/18663212)
 * **Academic Verification:** HarvardX Certified in *Rhetoric and Persuasive Writing*.
-* **Platforms:** [Zenodo Portfolio](https://zenodo.org/communities/docu-helix) | [Amazon Kindle: Silent Wars](https://amazon.com/author/kallol)
 
 ---
 
