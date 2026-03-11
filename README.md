@@ -33,15 +33,14 @@ Integrated within this portal is an AI-driven agent configured via the **Policy 
     * *Civic Reflexivity Engines:* AI tools for democratic self-examination.
     * *Employment Rights Manual:* A Ready Reckoner for private school educators in India.
 
-
-
 ---
 
 ## 📊 Global Research Footprint & Verification
 * **ORCID iD:** [0009-0007-4971-8936](https://orcid.org/0009-0007-4971-8936)
+* **Featured SSRN Research:** [Abstract 5286196](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5286196)
 * **DOIs:** 256+ peer-reviewed and DeSci verified submissions via Zenodo.
 * **Academic Verification:** HarvardX Certified in *Rhetoric and Persuasive Writing*.
-* **Platforms:** [Zenodo Portfolio](https://zenodo.org/communities/docu-helix) | [SSRN Profile](https://ssrn.com/author=your-id) | [Amazon Kindle: Silent Wars](https://amazon.com/author/kallol)
+* **Platforms:** [Zenodo Portfolio](https://zenodo.org/communities/docu-helix) | [Amazon Kindle: Silent Wars](https://amazon.com/author/kallol)
 
 ---
 
