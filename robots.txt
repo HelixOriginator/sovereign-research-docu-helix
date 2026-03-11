@@ -1,0 +1,6 @@
+# robots.txt for HelixOriginator Sovereign Research Portal
+User-agent: *
+Allow: /
+
+# Direct link to your sitemap for better SEO indexing
+Sitemap: https://helixoriginator.github.io/sovereign-research-docu-helix/sitemap.xml
