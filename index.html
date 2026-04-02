@@ -7,15 +7,13 @@
     <style>
         :root { --accent: #00ffcc; --bg: #121212; --card: #1a1a1a; --text: #e0e0e0; }
         body { margin: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; display: flex; height: 100vh; background: var(--bg); color: var(--text); }
-        
         .sidebar { width: 320px; background: var(--card); padding: 25px; border-right: 2px solid var(--accent); overflow-y: auto; box-sizing: border-box; }
         .main { flex-grow: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 40px; text-align: center; background: radial-gradient(circle at center, #1e1e1e 0%, #121212 100%); }
-        
         .launch-card { background: var(--card); padding: 40px; border-radius: 15px; border: 1px solid #333; box-shadow: 0 10px 30px rgba(0,0,0,0.5); max-width: 600px; }
-        /* FIX: Changed invalid "text-url: none" to correct "text-decoration: none" */
         .btn { display: inline-block; background: var(--accent); color: black; padding: 15px 30px; text-decoration: none; font-weight: bold; margin-top: 20px; border-radius: 8px; transition: transform 0.2s; box-shadow: 0 4px 15px rgba(0, 255, 204, 0.3); }
         .btn:hover { transform: scale(1.05); background: #00e6b8; }
-        
+        .btn-secondary { display: inline-block; background: transparent; color: var(--accent); padding: 15px 30px; text-decoration: none; font-weight: bold; margin-top: 15px; border-radius: 8px; transition: all 0.2s; border: 2px solid var(--accent); box-shadow: 0 4px 15px rgba(0, 255, 204, 0.1); }
+        .btn-secondary:hover { background: var(--accent); color: black; transform: scale(1.05); box-shadow: 0 6px 20px rgba(0, 255, 204, 0.4); }
         h2 { color: var(--accent); margin-top: 0; }
         .date { font-size: 0.85rem; color: #888; margin-bottom: 8px; border-left: 2px solid #444; padding-left: 10px; }
         hr { border: 0; border-top: 1px solid #333; margin: 20px 0; }
@@ -32,7 +30,6 @@
         <div class="date">Dec 08, 2025: Shortlisted / Verified</div>
         <div class="date">Mar 02, 2026: State Invitation</div>
         <div class="date">Mar 09, 2026: Bharat Mandapam Ceremony</div>
-        
         <a href="https://world-top-independent-researcher.netlify.app/" target="_blank" class="video-btn">▶ Watch: 1:31 Intervention</a>
         <hr>
         <p style="font-size: 0.8rem; line-height: 1.4; color: #999;">
@@ -51,8 +48,13 @@
             <p style="color: #888; font-size: 0.9rem;">
                 The engine utilizes Sovereign Logic to process national schemes and academic data.
             </p>
-            <!-- NOTE: Please verify this URL is correct — "opal.google" is not a standard Google domain -->
+            
+            <!-- Primary AI Agent Button -->
             <a href="https://opal.google/app/1pc-N7FqXNtAE1AG90mJZH1SbyFsEsi1W" target="_blank" class="btn">LAUNCH AI AGENT 🚀</a>
+            
+            <!-- NEW: Secondary Button with your requested URL -->
+            <a href="https://opal.google/app/1Ms-1bHVXqp99u4B_uH7ejvWEa0ZXDk71" target="_blank" class="btn-secondary">ACCESS SOVEREIGN PORTAL ✨</a>
+            
             <p style="margin-top: 20px; font-size: 0.75rem; color: #555;">
                 *Opens in a new secure window to ensure full functionality.
             </p>
